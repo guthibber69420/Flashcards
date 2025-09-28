@@ -122,7 +122,4 @@ footer p {
         background: url('img/bg-tablet.webp') no-repeat center center fixed;
         background-size: cover;
     }
-
-    /* Você pode ajustar outros estilos aqui se quiser,
-       como o layout dos cartões, mas o desafio só pede o fundo. */
 }
